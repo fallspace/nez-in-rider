@@ -2,12 +2,12 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace MyGame;
+namespace nezgame;
 
-public class Game1 : Nez.Core
+public class Main : Nez.Core
 {
 
-    public Game1()
+    public Main()
     {
         Content.RootDirectory = "Content";
         IsMouseVisible = true;

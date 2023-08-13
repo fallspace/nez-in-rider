@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGame", "MyGame\MyGame.csproj", "{DBAB5C08-A969-41C8-B3C9-F78DADB6507F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{DBAB5C08-A969-41C8-B3C9-F78DADB6507F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nez.MG38", "Nez\Nez.Portable\Nez.MG38.csproj", "{211BAC7C-F85F-40B3-889E-67C428F4391E}"
 EndProject
